@@ -1,0 +1,22 @@
+{
+  "name": "ghwiki",
+  "version": "1.0.0",
+  "description": "Helps cloning github wiki repositories programatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatoargh/ghwiki.git"
+  },
+  "author": "renatoargh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatoargh/ghwiki/issues"
+  },
+  "homepage": "https://github.com/renatoargh/ghwiki#readme",
+  "dependencies": {
+    "tmp": "0.0.33"
+  }
+}
